@@ -11,4 +11,6 @@
 运行 hpr.py 可以看见窗口，根据指示输入设备ID或者 url 并等待页面加载
 
 ## 环境依赖
-PyQt6 PyQtWebEngine pywin32
+PyQt6 
+PyQtWebEngine 
+pywin32
